@@ -1,0 +1,15 @@
+# IDE
+.idea
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+### Build
+dist
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
